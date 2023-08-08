@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
 glanz.starkethemes.com	TRUE	/	FALSE	1999999999	PHPSESSID	62a5dc04767b5653322b34ea2e7be9ad
 
+=======
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+glanz.starkethemes.com	TRUE	/	FALSE	1999999999	PHPSESSID	62a5dc04767b5653322b34ea2e7be9ad
+
+>>>>>>> 1e886e53811c171e28b33c2f9411b9588aff18f6
